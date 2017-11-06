@@ -1,19 +1,8 @@
-![learnyouhtml](./preview.png)
-
 # learnyouhtml
+Resolver los ejercicios mostrados en el bash.
 
-[![NPM version][npm-image]][npm-url]
-[![node][node-image]][node-url]
-[![Build Status][buildstat-image]][buildstat-url]
-[![Dependency Status][depstat-image]][depstat-url]
-
-> Learn you how to create your first web-page.
-
-**Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. This workshopper will guide you through the simple exercises which explain the core principles of HTML.
-
-## Exercises
-
-This workshopper has 11 exercises that cover the most important aspects of HTML.
+### Ejercicios
+Workshopper consta de 11 ejercicios basados en HTML.
 
 * **HELLO WORLD** — introduction to HTML.
 * **TAGS** — understanding tags.
@@ -27,46 +16,24 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 * **FORMS** — creating of forms with control elements.
 * **STYLES AND SCRIPTS** — injecting styles and scripts on a page.
 
-## Requirements
+### Requerimientos
 
-* [**Node.js**](node-url) >=6.0.0
+* [**Node.js**](node-url) >=8.9.0
 
-## Installation
+### Instalación
 
-Open your terminal and run this command:
+Abrir el terminal git bash y ejecutar el siguiente comando:
 
 ```
 npm install -g learnyouhtml
 ```
 
-Use `sudo` if you get an `EACCESS` error.
+### Usa
 
-## Usage
-
-Open your terminal and run the following command:
+El siguiente comando permitira abrir la lista de ejercicios, por lo cual tambien te permitirá verificar tu resolucion:
 
 ```
 learnyouhtml
 ```
 
-## License
-
-MIT © [Denys Dovhan](http://denysdovhan.com)
-
-<!-- References -->
-
-[html]: https://en.wikipedia.org/wiki/HTML
-
-<!-- Badges -->
-
-[npm-url]: https://npmjs.org/package/learnyouhtml
-[npm-image]: https://img.shields.io/npm/v/learnyouhtml.svg?style=flat-square
-
-[node-url]: https://nodejs.org/en/download/
-[node-image]: https://img.shields.io/node/v/learnyouhtml.svg?style=flat-square
-
-[depstat-url]: https://david-dm.org/denysdovhan/learnyouhtml
-[depstat-image]: https://david-dm.org/denysdovhan/learnyouhtml.svg?style=flat-square
-
-[buildstat-url]: https://travis-ci.org/denysdovhan/learnyouhtml
-[buildstat-image]: https://img.shields.io/travis/denysdovhan/learnyouhtml.svg?style=flat-square
+![learnyouhtml](./completed.png)
